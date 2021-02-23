@@ -5,8 +5,8 @@ Very simple console program that allows user to check whether the entered number
 
 ## Usage example
 
-![1](./images/1.png)
+![1](./Screenshots/1.png)
 
-![2](./images/2.png)
+![2](./Screenshots/2.png)
 
-![3](./images/3.png)
+![3](./Screenshots/3.png)
